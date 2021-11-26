@@ -1,1 +1,1 @@
-# https-github.com-Mague-message_colaboration
+# https://github.com/Mague/message_colaboration
